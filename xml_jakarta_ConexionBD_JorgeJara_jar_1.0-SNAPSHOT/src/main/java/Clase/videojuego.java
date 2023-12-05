@@ -6,6 +6,8 @@ import java.sql.Date;
 /**
  *
  * @author Hoyu
+
+ CLase videojuego para interactuar con ella en la bbdd 
  */
 public class videojuego {
     
